@@ -14,7 +14,7 @@
 
 I'm a passionate developer with a love for building efficient applications and beautiful UIs. I'm driven by problem-solving and am always exploring new technologies to enhance my skill set.
 
-* 🌱 I’m currently learning **[A Technology You're Learning]**.
+* 🌱 I’m currently learning **Java**.
 * 💬 Ask me about **Java, JavaFX, React, or anything related to web/desktop development!**
 * 📫 How to reach me: **dilshanthilina1010@gmail.com**
 
