@@ -93,7 +93,7 @@ const developer = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://thilina-fer.github.io/my-portfolio/)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://thilina-fer.github.io/my-portfolio/](https://personal-portfolio-next-js-tixh.vercel.app/))
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshanfernando1010@gmail.com)
 
 </div>
