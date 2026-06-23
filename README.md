@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Thilina%20Fernando&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20React%20%26%20Node.js&descAlignY=58&descSize=15&descColor=a78bfa" width="100%" />
+# Thilina Dilshan Fernando
+
+### Full-Stack Software Engineer | Java & Spring Boot | React & Node.js
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=Building+scalable+full-stack+systems+%F0%9F%9A%80;Java+%2F+Spring+Boot+%2F+Node.js+%2F+React;Writing+about+Java+%26+Spring+on+Medium+%E2%9C%8D%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=500&lines=Building+scalable+full-stack+systems;Java+%2F+Spring+Boot+%2F+Node.js+%2F+React;Writing+on+Java+%26+Spring+on+Medium" alt="Typing SVG" /></a>
 
 </div>
 
