@@ -1,8 +1,14 @@
 <div align="center">
 
-# Thilina Dilshan Fernando
+<img
+  src="./portfolio-hero.png"
+  alt="Thilina Dilshan Fernando"
+  width="100%"
+/>
 
 </div>
+
+<br>
 
 <div align="center">
 
@@ -23,4 +29,5 @@
   alt="GitHub Contributions"
   width="100%"
 />
+
 </div>
